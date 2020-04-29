@@ -4,4 +4,5 @@ Princess Leia
 Yoda
 Darth Maul
 Chewbacca
+Han Solo
 
