@@ -3,5 +3,8 @@ Obi-Wan Kenobi
 Princess Leia
 Yoda
 Darth Vader
+Darth Maul
+Chewbacca
+Han Solo
 Jabba
 

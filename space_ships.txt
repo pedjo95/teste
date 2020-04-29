@@ -2,3 +2,5 @@ millenium falcon
 tie fighter
 x-wing
 imperial destroyer
+death star
+
